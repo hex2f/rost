@@ -1,6 +1,6 @@
 # rost
 
-<p align="center"><img src="logo.jpg" alt="Rust German Logo"></p>
+<p align="center"><img src="rost.png" alt="Rust Swedish Logo"></p>
 
 Aren't you _müde_ from writing Rust programs in English? Do you like saying
 "scheiße" a lot? Would you like to try something different, in an exotic and
